@@ -1,0 +1,45 @@
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+header h1 {
+  text-align: center;
+  margin: 2rem;
+}
+
+
+.input {
+  font-size: small;
+  display: block;
+  margin: 1rem auto;
+  width: 100%;
+  max-width: 325px;
+}
+
+.btn {
+  background: gray;
+  color:black;
+  padding: 0.7rem 1rem;
+  font-size: large;
+  margin: auto;
+  display: block;
+}
+
+.output {
+  font-size: x-large;
+  margin: 2rem 0;
+}
+
